@@ -12,9 +12,9 @@ public class StringBufferStringBuilder {
 //		String str=sb.toString();
 		
 //		sb.deleteCharAt(2);
-//		sb.insert(0,"Java");
-//		sb.insert(6,"java");
-//		sb.setLength(30);
+	sb.insert(0,"Java");
+	sb.insert(6,"java");
+//sb.setLength(30);
 		sb.ensureCapacity(100);
 		
 		System.out.println(sb);
