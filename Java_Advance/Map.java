@@ -7,4 +7,6 @@ public class Map {
     	
 //    	Map<String, Integer> students=new HashMap<>();
     	Map<String, Integer> students=new Hashtable<>();
+        students.put("Navin",56);
+    	students.put("Harsh",23);
 }
