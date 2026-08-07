@@ -11,4 +11,7 @@ public class Map {
     	students.put("Harsh",23);
         students.put("Sushil",67);
     	students.put("Kiran",92);
+        students.put("Harsh",45);
+    	
+    	System.out.println(students.keySet());
 }
