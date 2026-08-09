@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Comparator;
 
+class Student
+{
+
 public class Comparator_Comparable {
     
 }
