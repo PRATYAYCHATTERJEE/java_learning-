@@ -12,6 +12,9 @@ System.out.println("pratyay");
 System.out.println("pratyay");
 System.out.println("pratyay");
 System.out.println("pratyay");
+System.out.println("pratyay");
+System.out.println("pratyay");
+System.out.println("pratyay");
 
              
   
