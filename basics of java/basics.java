@@ -11,10 +11,10 @@ public class basics{
             System.out.println("pratyay");
             System.out.println("pratyay");
             
-            System.out.println("pratyay");
+           
             System.out.println("pratyay");
              System.out.println("pratyay");
-            System.out.println("pratyay");
+              System.out.println("pratyay");
             
             
             System.out.println("pratyay");
