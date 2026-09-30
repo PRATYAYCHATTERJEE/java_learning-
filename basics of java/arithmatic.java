@@ -4,6 +4,12 @@ public class arithmatic {
         int y = 411;
       
          System.out.println(x-y);
+       
+       System.out.println(x*y);
+       System.out.println(x*y);
+       System.out.println(x*y);
+       System.out.println(x*y);
+       System.out.println(x*y);
        System.out.println(x*y);
        
         System.out.println(x/y);
