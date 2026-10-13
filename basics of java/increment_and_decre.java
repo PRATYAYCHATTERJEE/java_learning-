@@ -5,7 +5,8 @@ public class increment_and_decre {
         x++;
         System.out.println(x);
         x--;
-        
+        System.out.println(x);
+        int y =7;
         System.out.println(y);
         y++;
         System.out.println(y);
