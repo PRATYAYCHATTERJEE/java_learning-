@@ -4,8 +4,7 @@ public class Mul_variable {
         System.out.print("The value of x is :"+x);
         System.out.println(x);
         
-        System.out.println("the value of y is : "+y);System.out.println("the value of y is : "+y);
-        System.out.println(y);
+        
         
         z=x*y;
     
