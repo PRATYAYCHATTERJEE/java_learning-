@@ -3,7 +3,8 @@ public class Mul_variable {
         int x=5,y=6,z;
         System.out.print("The value of x is :"+x);
         System.out.println(x);
-        System.out.println("the value of y is : "+y);
+        
+        System.out.println("the value of y is : "+y);System.out.println("the value of y is : "+y);
         System.out.println(y);
         
         z=x*y;
