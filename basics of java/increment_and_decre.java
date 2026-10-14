@@ -8,8 +8,7 @@ public class increment_and_decre {
         
         System.out.println(x);
         int y =7;
-        System.out.println(x);
-        int y =7;
+        
         
 
         System.out.println(y);
