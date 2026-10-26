@@ -8,8 +8,7 @@ public class Mul_variable {
         
         
     
-        System.out.println(z);
-        System.out.println(x+y+z);
+   
         
     }
 }
