@@ -6,7 +6,7 @@ public class Mul_variable {
         
         
         
-        z=x*y;
+        
     
         System.out.println(z);
         System.out.println(x+y+z);
