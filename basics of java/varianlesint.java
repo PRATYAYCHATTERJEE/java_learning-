@@ -7,9 +7,7 @@ public class varianlesint{
         System.out.println(x);
         System.err.println(x+1);
         x = x + 5;
-        System.out.println(x);
-        x = x - 10;
-        System.out.println(x);
+      
 
     }
 
