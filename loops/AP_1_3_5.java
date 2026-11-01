@@ -7,7 +7,7 @@ public class AP_1_3_5 {
         int n = sc.nextInt();
 
         for(int i=1;i<2*n-1;i+=2){
-            System.out.println(i+" ");
+
         }
     }
 }
