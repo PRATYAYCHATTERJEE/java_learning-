@@ -8,6 +8,6 @@ public class double_datatype {
         double a = 3;
         double b = 4;
         double c = a / b;
-        System.out.println(c);
+      
     }
 }
