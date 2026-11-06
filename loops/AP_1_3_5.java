@@ -13,7 +13,6 @@ public class AP_1_3_5 {
         System.out.println("The first " + n + " terms of the series are:");
         for (int i = 0; i < n; i++) {
             int term = firstTerm + (i * commonDifference);
-            System.out.print(term + " ");
         }
     }
 }
