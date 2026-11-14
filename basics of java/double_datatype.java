@@ -5,9 +5,6 @@ public class double_datatype {
         double z = x / y;
         System.out.println(z);
 
-        double a = 3;
-        double b = 4;
-        double c = a / b;
       
     }
 }

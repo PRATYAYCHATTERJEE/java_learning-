@@ -11,6 +11,5 @@ public class AP_1_3_5 {
             int term = firstTerm + (i * commonDifference);
             System.out.print(term + " ");
         }
-        System.out.println();
     }
 }
