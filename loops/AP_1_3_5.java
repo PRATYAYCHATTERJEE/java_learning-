@@ -1,9 +1,5 @@
 package loops;
 
-
-
-
-  
 public class AP_1_3_5 {
     public static void main(String[] args) {
         int n = 10; // Number of terms in the series
@@ -13,6 +9,6 @@ public class AP_1_3_5 {
         System.out.println("The first " + n + " terms of the series are:");
         for (int i = 0; i < n; i++) {
             int term = firstTerm + (i * commonDifference);
-        }
+      
     }
 }
