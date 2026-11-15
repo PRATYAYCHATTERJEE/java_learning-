@@ -6,8 +6,7 @@ public class chardatatype {
 
         char ch ='!';
         System.out.println(ch);
-        // int x = (int)ch;
-        // System.out.println(x);
+     
     }
     
 }
