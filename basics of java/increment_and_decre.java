@@ -7,7 +7,7 @@ public class increment_and_decre {
         x--;
         
         System.out.println(x);
-        int y =7;
+    
         
         
 
