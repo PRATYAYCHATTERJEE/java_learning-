@@ -13,7 +13,7 @@ public class increment_and_decre {
 
         System.out.println(y);
         y++;
-        System.out.println(y);
+    
        
       
     
