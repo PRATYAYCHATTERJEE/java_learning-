@@ -15,8 +15,7 @@ public class increment_and_decre {
         y++;
         System.out.println(y);
        
-        //x++= increment x
-        //++x=increment then use
+   
     
     }
 }
