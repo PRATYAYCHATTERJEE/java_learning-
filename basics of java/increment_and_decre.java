@@ -11,7 +11,7 @@ public class increment_and_decre {
         
         
 
-        y++;
+     
       
        
    
