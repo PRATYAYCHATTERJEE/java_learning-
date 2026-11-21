@@ -4,7 +4,7 @@ public class increment_and_decre {
         System.out.println(x);
         x++;
         System.out.println(x);
-        x--;
+     
         
       
         
